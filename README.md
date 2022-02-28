@@ -10,7 +10,7 @@ Support the project on the itch.io page(Funkin Orginal): https://ninja-muffin24.
 
 IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
 
-based by Holiday Part || and psychEngine
+based by The Holiday Mod Part || and PsychEngine v0.5.1
 
 ## Credits / shoutouts
 
