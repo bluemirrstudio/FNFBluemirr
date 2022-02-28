@@ -18,4 +18,4 @@ based by Holiday Part || and psychEngine
 - [Jiwan Lee](https://github.com/lee-jiwan) - Programmer
 - [Nix](https://www.youtube.com/channel/UCsRbDMaaZWmdhs8_FPVnvvw) - Bluemirr Member
 
-This game was made with love to BlueMirr Studio and its member. Extra love to Tom Fulp.
+This game was made with love to BlueMirr Studio and its member.
