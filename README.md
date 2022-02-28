@@ -19,3 +19,7 @@ based by Holiday Part || and psychEngine
 - [Nix](https://www.youtube.com/channel/UCsRbDMaaZWmdhs8_FPVnvvw) - Bluemirr Member
 
 This game was made with love to BlueMirr Studio and its member.
+
+## How to Play?
+
+Just overwrite the file on Friday Night Funkin' PsychEngine for each operating system. That's it!
