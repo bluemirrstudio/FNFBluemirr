@@ -1,5 +1,7 @@
 # Friday Night Funkin: Bluemirr
 
+![logo](https://github.com/bluemirrstudio/FNFBluemirr/blob/main/export202202171329043150.png?raw=true)
+
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
 Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
